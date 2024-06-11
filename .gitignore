@@ -16,6 +16,12 @@ babycryfix.h5
 babycrymodell.h5
 Model CNN.h5
 Model RNN.h5
+
+app_tes.py
+app.py
+app2.py
+app3.py
+chat.py
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
